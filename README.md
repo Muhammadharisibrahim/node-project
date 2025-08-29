@@ -1,2 +1,1 @@
-# node-project
-project nodejs pertama saya
+# My first project on GitHub
